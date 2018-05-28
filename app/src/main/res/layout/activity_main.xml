@@ -19,15 +19,12 @@
             android:orientation="vertical"
             tools:context=".MainActivity">
 
-            <TextView
+            <ImageView
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="100dp"
                 android:gravity="center_horizontal"
                 android:padding="16dp"
-                android:text="Team A"
-                android:textSize="14sp"
-                android:textColor="#616161"
-                android:fontFamily="sans-serif-medium"/>
+                android:src="@drawable/madrid"/>
 
             <TextView
                 android:id="@+id/team_a_score"
@@ -85,15 +82,12 @@
             android:orientation="vertical"
             tools:context=".MainActivity">
 
-            <TextView
+            <ImageView
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="100dp"
                 android:gravity="center_horizontal"
                 android:padding="16dp"
-                android:text="Team B"
-                android:textSize="14sp"
-                android:textColor="#616161"
-                android:fontFamily="sans-serif-medium"/>
+                android:src="@drawable/liverpool" />
 
             <TextView
                 android:id="@+id/team_b_score"
