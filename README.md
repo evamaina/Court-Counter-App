@@ -1,6 +1,6 @@
 # Court Counter App
 
-**The goal is to create a court counter app which gives a user the ability to keep track of the score of two different teams playing a game of your choice**
+**The goal is to create a score keeper app which gives a user the ability to keep track of the score of two different teams playing a game of your choice**
 
 **This project is about combining various ideas and skills. They include:**
 
