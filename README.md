@@ -25,6 +25,6 @@ This sample uses the Gradle build system. To build this project, the "gradlew bu
 
 #### Below are the screenshots for the project
 
-![alt text](https://github.com/evamaina/Just-Java/blob/master/app/src/main/res/drawable/cream.png "Screenshot 1")                           ![alt text](https://github.com/evamaina/Just-Java/blob/master/app/src/main/res/drawable/eva.png "Screenshot 2")                             ![alt text](https://github.com/evamaina/Just-Java/blob/master/app/src/main/res/drawable/mail.png "Screenshot 3") 
+![alt text](https://github.com/evamaina/Court-Counter-App/blob/master/app/src/main/res/drawable/courtcounter.png "Screenshot 1")                           ![alt text](https://github.com/evamaina/Court-Counter-App/blob/master/app/src/main/res/drawable/me.png "Screenshot 2") 
 
-![alt text](https://github.com/evamaina/Just-Java/blob/master/app/src/main/res/drawable/jjjj.png "Screenshot 4") 
+![alt text](https://github.com/evamaina/Court-Counter-App/blob/master/app/src/main/res/drawable/courtcounter2.png "Screenshot 3") 
